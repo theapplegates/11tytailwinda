@@ -17,6 +17,18 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header>
+          <script src="https://giscus.app/client.js"
+                  data-repo="theapplegates/11tytailwinda"
+                  data-repo-id="R_kgDOGkxRhw"
+                  data-category-id="DIC_kwDOGkxRh84CAZ51"
+                  data-mapping="pathname"
+                  data-reactions-enabled="1"
+                  data-emit-metadata="0"
+                  data-theme="light"
+                  data-lang="en"
+                  crossorigin="anonymous"
+                  async>
+          </script>
             <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
               <dl>
                 <div>
